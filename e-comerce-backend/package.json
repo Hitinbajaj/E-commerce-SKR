@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node backend/server.js",
-    "dev": "nodemon backend/server.js",
-    "data:import": "node backend/seederScript",
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "data:import": "node seederScript",
     "build": "echo jsom-e-com"
   },
   "keywords": [],
